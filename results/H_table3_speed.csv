@@ -1,0 +1,5 @@
+speed_mps,group_threshold_left_half_paresis,mean_per_policy_threshold_left_half_paresis,group_threshold_right_half_paresis,mean_per_policy_threshold_right_half_paresis,right_gt_left,left_gt_right,ties,p_sign
+0.3,60.0,62.5,60.0,66.875,5,1,2,0.21875
+0.5,55.00000000000001,62.5,65.0,68.75,6,0,2,0.03125
+0.7,60.0,63.74999999999999,65.0,69.375,6,1,1,0.125
+0.9,60.0,64.375,65.0,70.625,6,1,1,0.125

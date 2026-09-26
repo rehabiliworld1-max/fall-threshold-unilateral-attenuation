@@ -1,0 +1,25 @@
+{
+  "version_mjlab": "1.2.0",
+  "version_mujoco": "3.5.0",
+  "version_mujoco-warp": "3.6.0",
+  "version_warp-lang": "1.12.1",
+  "version_rsl-rl-lib": "5.0.1",
+  "version_torch": "2.11.0+cu128",
+  "version_numpy": "2.1.3",
+  "torch.__version__": "2.11.0+cu128",
+  "gpu": "Tesla T4",
+  "total_mass_kg": 33.341142000000005,
+  "physics_dt_s": 0.005,
+  "control_dt_s": 0.02,
+  "decimation": 4,
+  "n_joints": 29,
+  "unattenuated_center_joints": [
+    "waist_yaw_joint",
+    "waist_roll_joint",
+    "waist_pitch_joint"
+  ],
+  "actor_obs_dim": 99,
+  "actor_layers": "MLP(\n  (0): Linear(in_features=99, out_features=512, bias=True)\n  (1): ELU(alpha=1.0)\n  (2): Linear(in_features=512, out_features=256, bias=True)\n  (3): ELU(alpha=1.0)\n  (4): Linear(in_features=256, out_features=128, bias=True)\n  (5): ELU(alpha=1.0)\n  (6): Linear(in_features=128, out_features=29, bias=True)\n)",
+  "clip_actions": null,
+  "checkpoint_seed1": "logs/rsl_rl/g1_velocity/2026-07-20_12-36-23_seed1/model_2999.pt"
+}

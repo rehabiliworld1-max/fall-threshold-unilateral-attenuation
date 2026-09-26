@@ -1,0 +1,2 @@
+source,speed_mps,label,right_gt_left,left_gt_right,ties,p_sign,mean_diff,p_wilcoxon
+repeated_trials,0.5,0.5 m/s,7,1,0,0.0703125,0.037413194444444395,0.0390625
