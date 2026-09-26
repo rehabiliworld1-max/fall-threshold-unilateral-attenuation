@@ -1,0 +1,2 @@
+Upload the eight files g1_velocity_seed{1..8}_model_2999.pt from Colab's release_checkpoints/ folder into this checkpoints/ folder.
+(This placeholder file can be deleted afterwards.)
