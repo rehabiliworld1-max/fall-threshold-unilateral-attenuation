@@ -1,0 +1,17 @@
+{
+  "fell_over_func": "mjlab.envs.mdp.terminations.bad_orientation",
+  "fell_over_params": {
+    "limit_angle": 1.2217304763960306
+  },
+  "free_joint_type_is_free": true,
+  "root_body_name": "robot/pelvis",
+  "robot_body_names_first5": [
+    "pelvis",
+    "left_hip_pitch_link",
+    "left_hip_roll_link",
+    "left_hip_yaw_link",
+    "left_knee_link"
+  ],
+  "limit_deg_used_here": 70.0,
+  "torque_source": "actuator_force_mapped_to_joints"
+}
